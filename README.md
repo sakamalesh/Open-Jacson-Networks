@@ -1,3 +1,6 @@
+## NAME: KAMALESH S
+## REG NO: 212223040083
+
 # Series Queues with infinite capacity - Open Jackson Network
 
 ## Aim :
@@ -17,11 +20,18 @@ Visual components and Python
 
 
 ## Experiment:
-
+![image](https://github.com/kaviya546/Open-Jacson-Networks/assets/150368823/3abdd701-f666-41b5-b59a-c7f066ffab2d)
+![image](https://github.com/kaviya546/Open-Jacson-Networks/assets/150368823/37ed905f-d6c8-4b1e-9017-581649824698)
+![image](https://github.com/kaviya546/Open-Jacson-Networks/assets/150368823/277c198b-0afa-4e38-bce4-7e053fdb02eb)
+![image](https://github.com/kaviya546/Open-Jacson-Networks/assets/150368823/d3469a84-8747-4503-bb17-ae472f49996d)
 
 ## Program
+![image](https://github.com/kaviya546/Open-Jacson-Networks/assets/150368823/6b9556e2-a5a2-4f72-96c5-7ce0384b1543)
 
 
-## Output
+## Output:
+
+![image](https://github.com/kaviya546/Open-Jacson-Networks/assets/150368823/50a6d00f-4a73-49b9-b6e5-a24f1f4f6c3e)
 
 ## Result
+The average number of material in the sysytem and in the conveyor and waiting time are successfully found.
